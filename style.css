@@ -1,0 +1,100 @@
+@import url("./reset.css");
+
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #54595e;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  width: 265px;
+  height: 70px;
+  margin: 0 auto;
+  margin-top: 80px;
+  margin-bottom: 33px;
+Font family: Inter;
+Font style: Bold;
+Font size: 58px;
+color: black;
+font-size: 58px;
+
+}
+.wrapper {
+  margin: 0 auto;
+  width: 594px;
+  background: white;
+  padding: 20px;
+  border-radius: 16px;
+}
+
+input:checked + span {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+ul {
+margin-top: 32px;
+}
+
+li {
+margin-bottom: 25px;
+}
+
+.check {
+  width: 16px;
+  height: 16px;
+  margin-right: 15px;
+}
+
+span {
+  margin-right: 25px;
+}
+
+.input {
+  margin-right: 24px;
+  width: 356px;
+  height: 38px;
+  border-radius: 4px;
+  Font family: Inter;
+  Font style: Regular;
+  Line height: 21px;
+  Align: Left;
+  color: #54595E;
+}
+
+.btn__add {
+  width: 166px;
+  height: 39px;
+  background-color: black;
+  border-radius: 4px;
+}
+
+.btn__checked {
+  width: 214px;
+  height: 39px;
+  border-radius: 4px;
+  margin-right: 201px;
+  background-color: #6C757D;
+}
+.btn__all {
+  width: 131px;
+  height: 39px;
+  border-radius: 4px;
+  justify-content: right;
+  background-color: #DC3545;
+}
+
+button {
+  color: white;
+}
+
+
+.btn__del {
+  background-color: white;
+  border: none;
+  width: 16px;
+  height: 21px;
+  
+}
